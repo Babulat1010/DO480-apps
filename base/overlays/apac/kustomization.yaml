@@ -1,0 +1,6 @@
+kind: Kustomization
+
+base:
+  - ../../base
+
+nameSuffix: -apac
