@@ -5,7 +5,7 @@ metadata:
   labels:
     app: budget-app
     name: budget-app
-  namespace: budget-app-dev
+  namespace: budget-app
 spec:
   replicas: 1
   selector:
